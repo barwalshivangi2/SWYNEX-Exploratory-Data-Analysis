@@ -1,5 +1,7 @@
-# SWYNEX-Exploratory-Data-Analysis
 
+
+
+# SWYNEX Exploratory Data Analysis
 
 This repository contains the Exploratory Data Analysis (EDA) for the SWYNEX internship Task 2. I used Python to analyze the cleaned dataset, calculate statistics, and identify patterns.
 
@@ -11,5 +13,5 @@ This repository contains the Exploratory Data Analysis (EDA) for the SWYNEX inte
 5. **Anomalies/Outliers:** Boxplot analysis shows extreme outliers in the 'Fare' column, indicating a few passengers paid exceptionally high ticket prices.
 
 ## Files:
-- `task2.py`: The Python script used for EDA.
-- `eda_charts.png`: The visual charts generated from the analysis.
+- `task_2.py`: The Python script used for EDA.
+- `EDA_charts.png`: The visual dashboard generated from the analysis.
