@@ -13,5 +13,5 @@ This repository contains the Exploratory Data Analysis (EDA) for the SWYNEX inte
 5. **Anomalies/Outliers:** Boxplot analysis shows extreme outliers in the 'Fare' column, indicating a few passengers paid exceptionally high ticket prices.
 
 ## Files:
-- `task_2.py`: The Python script used for EDA.
-- `EDA_charts.png`: The visual dashboard generated from the analysis.
+- `task_2 (1).py`: The Python script used for EDA.
+- `EDA_charts (1).png`: The visual dashboard generated from the analysis.
